@@ -28,3 +28,24 @@ Overall really happy with how this part looks. I may explore ways to allow this 
 
 **Total time spent: 5 hours** 
 
+# April 26 - Halo Design
+
+The halo is one of the most important parts of this printer. Its an inch of CNC machined steel. fun! I need to get this right or it will be a very expensive mistake. The halo mounts the motors, rails, and the rest of the frame. It needs to be steel because the mass of the halo helps to absorb vibrations and improve print quality. It also gives a super accurate surface for all parts to interface with, which helps a lot with getting everything aligned. 
+
+The halo itself is fairly simple. It has mounting for the four motor pods, tapped holes for the rails, and a big hole through the center for the toolhead to move in. 
+
+<img width="767" height="640" alt="Screenshot 2026-04-26 at 12 04 49 PM" src="https://github.com/user-attachments/assets/9e8f7fa7-05a2-4992-96c1-4d289554623a" />
+
+Currently it weighs 5kg. The thickness may be a bit overkill, but the steel isnt actually that expensive. Ill see if i want to go down to 1/2 inch or something eventually. 
+
+Next I added the rails and the motors to the halo to make sure everything fit correctly. There are still a ton of things that are subject to change as I develop the rest of the printer. I still need to add some mounting for a Z axis, as well as other various QOL things. 
+
+<img width="876" height="711" alt="Screenshot 2026-04-26 at 12 07 31 PM" src="https://github.com/user-attachments/assets/b4752c55-dd74-4185-b3ea-67a0bf62946d" />
+
+TO DO: 
+Z Axis (maxwell coupling?)
+Belt Clamps (k3 style)
+XY Rails (no clue yet)
+Toolhead (SLM probably?)
+
+**Total time spent: 7 hours** 
