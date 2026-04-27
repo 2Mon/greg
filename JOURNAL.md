@@ -49,3 +49,17 @@ XY Rails (no clue yet)
 Toolhead (SLM probably?)
 
 **Total time spent: 7 hours** 
+
+# April 27 - Belt Tensioners
+
+This part was a struggle, and I'm still not happy with it, but im tired and need a break from cad so, here we go. The belt tensioners on this printer need to be able to clamp both ends of the belt, with one being able to be pulled to increase tension with a screw. I did this by looping one of the belt ends around a screw (the same one that holds the part down to the carriage), and the other one gets wedged into a belt tensioner setup. It was really difficult to fit both of these in the tiny carriage assembly, but it was kinda needed to keep this compact. 
+
+I was inspired by Splendacross and K3, as well as Parker's tiny cross gantry. These are really clean designs and I was very impressed by how compact they are. I may end up redesigning some parts to make it easily CNC machinable. 
+
+<img width="308" height="356" alt="Screenshot 2026-04-26 at 9 05 54 PM" src="https://github.com/user-attachments/assets/3c4eed36-f5d9-47fc-a167-5754fd2afd88" />
+
+I went through about 12 iterations before landing on what you see above. It was really difficult to be able to fit all the parts of the tensioner into the small size. 
+
+I need to put one of these on each of the belts. The cross rails will go on top of these. yay!
+
+**Total time spent: 5 hours** 
