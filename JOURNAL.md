@@ -63,3 +63,11 @@ I went through about 12 iterations before landing on what you see above. It was 
 I need to put one of these on each of the belts. The cross rails will go on top of these. yay!
 
 **Total time spent: 5 hours** 
+
+# Cross Rails - April 26-27 (time is not real anymore)
+
+The cross rails on this printer are fairly simple so far. They are currently steel plates, 6mm thick, with pockets cut in them to save weight. The point of these backers is to improve the rigidity of the whole printer, as well as counteracting thermal expansion from the rails. Currently the X rails are mounted between a spacer and the belt tensioner, and the Y rail is mounted on top of the belt tensioner. Right now the two rails are colliding with eachother. sub optimal! I need to figure out a better solution, but overall its not bad so far. Looks nice and rigid. 
+
+<img width="628" height="648" alt="Screenshot 2026-04-27 at 7 57 04 AM" src="https://github.com/user-attachments/assets/eb16f3a1-5070-44ad-803d-5d880b490b94" />
+
+**Total time spent: 5 hours** 
