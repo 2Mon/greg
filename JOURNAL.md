@@ -71,3 +71,48 @@ The cross rails on this printer are fairly simple so far. They are currently ste
 <img width="628" height="648" alt="Screenshot 2026-04-27 at 7 57 04 AM" src="https://github.com/user-attachments/assets/eb16f3a1-5070-44ad-803d-5d880b490b94" />
 
 **Total time spent: 5 hours** 
+
+# Motor + Belt Changes - June 7 
+
+Casually took a break from this project for like over a month but were back! I made a couple changes to basically every part of this printer. 
+
+First, I changed basically everything with the motor mounts. I discovered these cool pulleys with set screws that have the same form factor as idlers. This lets me run 9mm belts on this machine! very cool very swag. 
+
+Here you can see how those motor mounts actually work with the new pulleys as well as the thicker 9mm belts. Looks really nice IMO!
+
+<img width="191" height="206" alt="Screenshot 2026-06-08 at 12 32 07 PM" src="https://github.com/user-attachments/assets/49e71f0b-136d-4851-8f24-b4f3ad2b134c" />
+
+Second, I changed the way that the mounts actually connect to the motors. Im using these nicer more slim motor mounts which ill get milled out of aluminum. This gives me more room for the cross rails (more on that later). This block connects to another block which connects to the halo. 
+
+<img height="300" alt="Screenshot 2026-06-08 at 12 33 23 PM" src="https://github.com/user-attachments/assets/659b94c4-3199-4788-9f02-9f2e1ac92ecc" />
+
+When I changed the belts, I also had to change the belt clamps. Here they are now. The weird cutout on the side is so that the other side of the belt is able to go past the clamp without it colliding. Im not sure if I want to split these into two parts for CNC machining or if printing them is fine. One advantage of machining them is that its a lot more rigid but it would also add a lot of extra cost, as well as probabl lead to slightly worse print quality because every imperfection gets transfered into the cross rails instead of being absorbed.
+<img width="200" alt="Screenshot 2026-06-08 at 12 35 54 PM" src="https://github.com/user-attachments/assets/73d7f41d-8641-4e35-a3e2-b6739a28ffc1" />
+
+**Total time spent: 5 hours** 
+
+# Cross Changes - June 7
+
+There are a couple changes I made to the cross rails themself too. Now, one of them is upside down. This reduces the distance between them, while allowing for higher rigidity in the toolhead. Previously the toolhead needed to be some weird SLM stuff with different heights but now since the rails are exactly 4mm apart I can just use a single 4mm sheet of aluminum. I can also mount the hotend to this piece. YAY!
+
+<img width="400" alt="Screenshot 2026-06-08 at 12 41 00 PM" src="https://github.com/user-attachments/assets/991be2ae-dfb4-4536-ae86-126642259239" />
+
+Here you can see how that looks in practice. To get here I had to change the dimensions of most of the parts to get everything to fit. 
+
+<img width="300" alt="Screenshot 2026-06-08 at 12 41 39 PM" src="https://github.com/user-attachments/assets/c9e62e8a-c78f-4eba-b9f1-c357d22d3c23" />
+
+And this is the toolhead itself. I need ducts. thats gonna be painful. :(
+
+**Total time spent: 4 hours** 
+
+# Frame - June 8
+
+This part was pretty simple. I basically just took a second halo, slapped it on the bottom, and put some extrusions to conenct it. The extrusions are misumi HFS5-404020, which are these cool corner pieces. Yay. 
+
+<img width="524" height="676" alt="Screenshot 2026-06-08 at 12 44 08 PM" src="https://github.com/user-attachments/assets/6232fb81-a091-4b0d-892c-cee1562c39b0" />
+
+And here you can see the current printer, complete with banana for scale. YAY. 
+
+**Total time spent: 4 hours** 
+
+
